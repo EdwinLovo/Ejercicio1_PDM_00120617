@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="generalPadding">8dp</dimen>
+    <dimen name="marginBotton">20dp</dimen>
+    <dimen name="bottonHeight">25dp</dimen>
+    <dimen name="bottonWidth">55dp</dimen>
+    <dimen name="marginBottonText">30dp</dimen>
+    <dimen name="marginTop">20dp</dimen>
+</resources>
